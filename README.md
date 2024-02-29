@@ -1,5 +1,5 @@
 # Stats220 *Project 1*
-### By Rena Weatherall
+### By *Rena Weatherall*
 For this first project we will be making a [meme](https://en.wikipedia.org/wiki/Meme). Making our memes serves as an introduction to working with **R** and **HTML**.
 
 For this project we will have to:
