@@ -18,3 +18,11 @@ For this project we will have to:
 
 ![This is an example of a meme](https://pbs.twimg.com/media/DKrgcLMWkAEYgUO.jpg)
 
+Here is my 'inspo meme', the key components are...
++ A quirky image of a cat
++ A pun relating to the text
++ Impact front text layered on the top and bottom of the image
+
+I will need to change the...
++ Image of the cat
++ The cat pun
